@@ -31,4 +31,6 @@ Processor - Supports Old Processors like i386 or later
 </strong>
 --
 AliceOS Classic 
+
+Under
 GNU Public License
